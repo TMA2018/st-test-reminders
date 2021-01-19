@@ -1,0 +1,34 @@
+{
+  "reminders": [
+    {
+      "label": "going to learn React",
+      "deadline": "2021-01-20T10:08:30",
+      "important": 0,
+      "id": "frfr"
+    },
+    {
+      "label": "step 1 repeat",
+      "deadline": "2021-01-18T12:08:30",
+      "important": 1,
+      "id": "kfsgs"
+    },
+    {
+      "label": "step 2 repeat",
+      "deadline": "2021-01-20T12:08:30",
+      "important": 0,
+      "id": "ssgsa"
+    },
+    {
+      "label": "i need a help",
+      "deadline": "2021-01-19T14:55:30",
+      "important": 0,
+      "id": "faggr"
+    },
+    {
+      "label": "i need a break",
+      "deadline": "2021-01-20T12:10:30",
+      "important": 1,
+      "id": "sgsg"
+    }
+  ]
+}

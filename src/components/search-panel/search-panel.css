@@ -1,0 +1,12 @@
+.search-panel {
+  margin: 1rem 0;
+}
+
+input.form-control.search-input {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+  margin-bottom: 0;
+  padding: 16px 12px;
+  font-size: 16px;
+}

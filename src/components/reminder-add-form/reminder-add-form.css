@@ -1,0 +1,18 @@
+.bottom-panel {
+  padding: 6px 0;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.bottom-panel .new-reminder-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+  margin-bottom: 0;
+  padding: 18px 12px;
+  font-size: 14px;
+}
+
+.bottom-panel .btn {
+  border: 1px solid gray;
+}
